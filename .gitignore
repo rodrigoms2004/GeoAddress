@@ -1,0 +1,5 @@
+*.xlsx*
+*.csv*
+config.json
+__pycache__
+*.kml*
